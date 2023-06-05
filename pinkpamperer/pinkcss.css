@@ -1,0 +1,66 @@
+<!--
+
+body	{
+	text-align:center;
+	font-family:verdana, arial;
+	color:#262667;
+	background-color:#fa7cbb;
+	background-image: url(roseborder.jpg);
+	background-repeat:repeat-y;
+	background-position:20px 0px;
+}
+
+h1	{
+	font-family:"palatino linotype", "monotype corsiva", verdana, arial;
+	color:#ffffff;
+	font-style:italic;
+}
+
+h2	{
+	font-family:"palatino linotype", "monotype corsiva", verdana, arial;
+	color:#ffffff;
+	font-style:italic;
+}
+
+h3	{
+	font-family:"palatino linotype", "monotype corsiva", verdana, arial;
+	color:#ffffff;
+	font-style:italic;
+}
+
+a	{
+	text-decoration:none;
+	color:#ffffff;
+}
+
+
+a.visited	{
+	color:#ffffff;
+}
+
+a.pink	{
+	color:#ffffff;
+}
+
+.italic	{
+	font-style:italic;
+}
+
+hr	{
+	width:60%;
+	text-align:center;
+}
+
+td	{
+	font-weight:bold;
+}
+
+td	{
+	border-style:none;
+	border-color:#000000;
+	border-size:0px;
+}
+
+
+
+-->
